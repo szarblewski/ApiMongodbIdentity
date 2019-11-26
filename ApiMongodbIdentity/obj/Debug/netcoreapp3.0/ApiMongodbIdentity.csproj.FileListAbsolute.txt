@@ -1,0 +1,16 @@
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\appsettings.json
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\ApiMongodbIdentity.exe
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\ApiMongodbIdentity.csprojAssemblyReference.cache
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\staticwebassets\ApiMongodbIdentity.StaticWebAssets.Manifest.cache
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\staticwebassets\ApiMongodbIdentity.StaticWebAssets.xml
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\ApiMongodbIdentity.AssemblyInfoInputs.cache
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\ApiMongodbIdentity.AssemblyInfo.cs
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\ApiMongodbIdentity.RazorTargetAssemblyInfo.cache
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\DnsClient.dll
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\bin\Debug\netcoreapp3.0\SharpCompress.dll
+D:\projetosApi\ApiMongodbIdentity\ApiMongodbIdentity\obj\Debug\netcoreapp3.0\ApiMongodbIdentity.csproj.CopyComplete

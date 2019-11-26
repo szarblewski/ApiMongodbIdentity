@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "ServiceStack.Core": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
